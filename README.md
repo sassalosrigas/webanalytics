@@ -1,6 +1,7 @@
 # PulseTransit — Mobile App Mockup
 
 **Course:** Web Analytics 
+
 **Authors:**
 - Rigas Sassalos (p3220178) — Department of Informatics, AUEB
 - Eleni Antoniadi Tsarampoulidi (3220006) — Department of Informatics, AUEB
